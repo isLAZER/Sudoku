@@ -14,7 +14,7 @@ Welcome to the Sudoku project! This application is designed to provide a user-fr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/sudoku-solver-game.git
+   git clone https://github.com/isLAZER/Sudoku.git
    cd sudoku-solver-game
    ```
 
@@ -32,12 +32,12 @@ Welcome to the Sudoku project! This application is designed to provide a user-fr
 
 1. **Create the JAR File**:
    ```bash
-   jar cvfm SudokuSolverGame.jar META-INF/MANIFEST.MF -C bin com
+   jar cvfm Sudoku.jar META-INF/MANIFEST.MF -C bin com
    ```
 
 2. **Run the JAR File**:
    ```bash
-   java -jar SudokuSolverGame.jar
+   java -jar Sudoku.jar
    ```
 
 ## Usage
