@@ -80,7 +80,7 @@ Welcome to the Sudoku project! This application is designed to provide a user-fr
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/isLAZER/Sudoku/blob/main/LICENSE) for more information.
 
 ## Acknowledgements
 
