@@ -59,7 +59,7 @@ Welcome to the Sudoku project! This application is designed to provide a user-fr
    - Select the desired number (1-9) and click on the grid at the desired spot to place the number.
    
 3. **Monitor Game Status**:
-   - The status bar at the bottom of the grid, it will display the current state of the game:
+   - The status bar at the bottom of the grid will display the current state of the game:
      - "STATUS: NEW GAME STARTED" when a new game starts.
      - "STATUS: ERROR DETECTED" if there's an error in the grid.
      - "STATUS: ONGOING" during the game.
